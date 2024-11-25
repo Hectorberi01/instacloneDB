@@ -1,11 +1,374 @@
+Hector
+hectorberi
+En ligne
+
+Ramzy — 20/10/2024 21:00
+@Tristan BERDRIN pense à envoyer quand meme un mail au membres de ton groupe
+Tristan BERDRIN — 20/10/2024 21:03
+J'ai même pas leur mail
+Et je crois que la prochaine fois qu'on va se croiser, je vais être mort
+Talal Benzekki — 20/10/2024 21:03
+dm les sur discord 
+Ramzy — 20/10/2024 21:39
+Talac records
+Toujours rien
+Talal Benzekki — 20/10/2024 21:40
+on a cook  4 sujet
+Ramzy — 20/10/2024 21:40
+Cookez bien
+Kyllian MAIGNAN — 20/10/2024 21:40
+il ment
+Ugo Bercegeay — 20/10/2024 21:40
+c'est faux
+Talal Benzekki — 20/10/2024 21:40
+jvous envoie en dm il reste un sujet
+cest pas faux
+Ramzy — 20/10/2024 21:40
+Trahi par ton propre clan
+Quelle indignité
+Talal Benzekki — 20/10/2024 21:41
+yen a c leur idée de sujet en plus  c des ouf
+il reste que des fonctianlité a ecrire pour 2 sujet ca arrive sous peu 
+Talal Benzekki — 20/10/2024 21:49
+c envoyé Mr
+Ramzy — 20/10/2024 21:50
+Les gars, ya de la concurrence
+Soyez prets
+Ramzy — 23/10/2024 00:06
+@Talal Benzekki toujours pas de sujet ça fait déjà -3 là !!!
+Talal Benzekki — 23/10/2024 00:06
+???????
+Mais vous avez validé
+Ramzy — 23/10/2024 00:06
+Non
+-3
+Vite
+Talal Benzekki — 23/10/2024 00:07
+Mais comment ça
+Ramzy — 23/10/2024 00:07
+😂 😂 😂
+Ça va tranquille on peut plus rigoler ici ou quoi ?
+Talal Benzekki — 23/10/2024 00:07
+Mais mr je suis sorti de mon lit pour allumer mon pc
+Ethan Francois — 23/10/2024 00:08
+mdrr wsh a 00:10 y’a pas
+Talal Benzekki — 23/10/2024 00:08
+Me faite plus des truc comme ça svp mdrrrrrrr
+Ramzy — 23/10/2024 00:08
+Bon plus sérieusement, tous les sujets sont validé et bien donc commencez à bosser dessus et ça devrait le faire. Vous avez 5 mois
+Allez bonne nuit @Talal Benzekki
+t’as interet à me faire un vrai truc je vais pas te lâcher
+Talal Benzekki — 23/10/2024 00:09
+Ya pas que moi on est 3 mais on va faire au max
+Ramzy — 23/10/2024 00:09
+Non non
+C’est toi
+Tu te débrouilles
+Je veux pas une bouze
+Tristan BERDRIN — 23/10/2024 08:07
+Le pressing de zinzin
+Talal Benzekki — 03/11/2024 14:03
+oh l'api c en kotlin?
+Rabah-Mehdi BELLIL — 03/11/2024 14:03
+J’crois pas nn
+mazouni rayan — 03/11/2024 14:13
+@Ramzy, est-ce que on va   apprendre Jetpack Compose  ? Ou on va  uniquement nous concentrer sur le développement natif ?
+Gilles Kounkoud — 03/11/2024 15:20
+Image
+Trad: pas forcement en kotlin
+Ramzy — 05/11/2024 22:31
+Le cours est axé sur le développement impératif, donc pas de compose pour ce cours
+Ramzy — 05/11/2024 22:33
+Trad « Vous êtes pas noté sur l’API c’est pas le but du cours »
+Ramzy — Aujourd’hui à 09:55
+https://my-json-server.typicode.com/
+https://github.com/RamzyK/insta_clone
+GitHub
+GitHub - RamzyK/insta_clone: Clone de l'applciation instagram 4AL -...
+Clone de l'applciation instagram 4AL - 2024 ESGI. Contribute to RamzyK/insta_clone development by creating an account on GitHub.
+Ramzy — Aujourd’hui à 10:08
+https://square.github.io/retrofit/
+Retrofit
+A type-safe HTTP client for Android and Java
+Ramzy — Aujourd’hui à 11:51
 {
-  "posts": [
+  "stories": [
     {
-      "id": 1,
-      "title": "hello"
+      "user_id": "user_1",
+      "username": "john_doe",
+      "profile_picture": "https://example.com/profiles/john_doe.jpg",
+Afficher plus
+message.txt
+7 Ko
+﻿
+{
+  "stories": [
+    {
+      "user_id": "user_1",
+      "username": "john_doe",
+      "profile_picture": "https://example.com/profiles/john_doe.jpg",
+      "story_content": [
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_1",
+          "duration": 5,
+          "timestamp": "2023-10-01T12:00:00Z"
+        },
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_2",
+          "duration": 7,
+          "timestamp": "2023-10-01T14:00:00Z"
+        },
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_3",
+          "duration": 10,
+          "timestamp": "2023-10-01T12:00:00Z"
+        },
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_4",
+          "duration": 15,
+          "timestamp": "2023-10-01T14:00:00Z"
+        }
+      ]
+    },
+    {
+      "user_id": "user_2",
+      "username": "jane_smith",
+      "profile_picture": "https://example.com/profiles/jane_smith.jpg",
+      "duration": 10,
+      "story_content": [
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_5",
+          "duration": 20,
+          "timestamp": "2023-10-01T12:00:00Z"
+        },
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_6",
+          "duration": 10,
+          "timestamp": "2023-10-01T14:00:00Z"
+        },
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_7",
+          "duration": 10,
+          "timestamp": "2023-10-01T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "user_id": "user_3",
+      "username": "jane_smith",
+      "profile_picture": "https://example.com/profiles/jane_smith.jpg",
+      "story_content": [
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_8",
+          "duration": 10,
+          "timestamp": "2023-10-01T12:00:00Z"
+        },
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_9",
+          "duration": 10,
+          "timestamp": "2023-10-01T14:00:00Z"
+        },
+        {
+          "type": "image",
+          "url": "https://robohash.org/story_10",
+          "duration": 10,
+          "timestamp": "2023-10-01T12:00:00Z"
+        }
+      ]
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "posts": [
+    {
+      "post_id": "post_1",
+      "user_id": "user_1",
+      "username": "john_doe",
+      "profile_picture": "https://example.com/profiles/john_doe.jpg",
+      "content": "https://example.com/posts/john_doe/post1.jpg",
+      "caption": "Beautiful sunset!",
+      "likes": 120,
+      "comments": [
+        {
+          "user_id": "user_2",
+          "username": "jane_smith",
+          "comment": "Amazing view!",
+          "timestamp": "2023-10-01T16:00:00Z"
+        }
+      ],
+      "shares": 10,
+      "timestamp": "2023-10-01T12:00:00Z"
+    },
+    {
+      "post_id": "post_2",
+      "user_id": "user_2",
+      "username": "jane_smith",
+      "profile_picture": "https://example.com/profiles/jane_smith.jpg",
+      "content": "https://example.com/posts/jane_smith/post1.jpg",
+      "caption": "Loving this place!",
+      "likes": 200,
+      "comments": [
+        {
+          "user_id": "user_1",
+          "username": "john_doe",
+          "comment": "Looks great!",
+          "timestamp": "2023-10-01T17:00:00Z"
+        }
+      ],
+      "shares": 15,
+      "timestamp": "2023-10-01T13:00:00Z"
+    },
+    {
+      "post_id": "post_3",
+      "user_id": "user_3",
+      "username": "arthur_01",
+      "profile_picture": "https://example.com/profiles/jane_smith.jpg",
+      "content": "https://example.com/posts/jane_smith/post1.jpg",
+      "caption": "Loving this place!",
+      "likes": 200,
+      "comments": [
+        {
+          "user_id": "user_1",
+          "username": "john_doe",
+          "comment": "Looks great!",
+          "timestamp": "2023-10-01T17:00:00Z"
+        }
+      ],
+      "shares": 15,
+      "timestamp": "2023-10-01T13:00:00Z"
+    }
+  ],
+  "messages": [
+    {
+      "conversation_id": "conv_1",
+      "participants": [
+        "user_1",
+        "user_2"
+      ],
+      "messages": [
+        {
+          "sender_id": "user_1",
+          "message": "Hey, how are you?",
+          "timestamp": "2023-10-01T18:00:00Z"
+        },
+        {
+          "sender_id": "user_2",
+          "message": "I'm good, thanks! How about you?",
+          "timestamp": "2023-10-01T18:05:00Z"
+        },
+        {
+          "sender_id": "user_1",
+          "message": "I'm doing well, just busy with work.",
+          "timestamp": "2023-10-01T18:10:00Z"
+        },
+        {
+          "sender_id": "user_2",
+          "message": "I understand. Any plans for the weekend?",
+          "timestamp": "2023-10-01T18:15:00Z"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_2",
+      "participants": [
+        "user_3",
+        "user_4"
+      ],
+      "messages": [
+        {
+          "sender_id": "user_3",
+          "message": "Hi, are you coming to the party?",
+          "timestamp": "2023-10-02T10:00:00Z"
+        },
+        {
+          "sender_id": "user_4",
+          "message": "Yes, I'll be there!",
+          "timestamp": "2023-10-02T10:05:00Z"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_3",
+      "participants": [
+        "user_5",
+        "user_6"
+      ],
+      "messages": [
+        {
+          "sender_id": "user_5",
+          "message": "Can you send me the report?",
+          "timestamp": "2023-10-03T09:00:00Z"
+        },
+        {
+          "sender_id": "user_6",
+          "message": "Sure, I'll send it by EOD.",
+          "timestamp": "2023-10-03T09:10:00Z"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_4",
+      "participants": [
+        "user_7",
+        "user_8"
+      ],
+      "messages": [
+        {
+          "sender_id": "user_7",
+          "message": "Are we still on for lunch?",
+          "timestamp": "2023-10-04T12:00:00Z"
+        },
+        {
+          "sender_id": "user_8",
+          "message": "Yes, see you at 1 PM.",
+          "timestamp": "2023-10-04T12:05:00Z"
+        }
+      ]
+    }
+  ],
+  "followings": [
+    {
+      "id": 1,
+      "first_name": "Baily",
+      "last_name": "Pettis",
+      "email": "bpettis0@vimeo.com",
+      "followers": 1,
+      "following": 1,
+      "posts": 1
+    },
+    {
+      "id": 2,
+      "first_name": "Sherman",
+      "last_name": "Adkin",
+      "email": "sadkin1@example.com",
+      "followers": 2,
+      "following": 2,
+      "posts": 2
+    },
+    {
+      "id": 3,
+      "first_name": "Gisella",
+      "last_name": "Normavell",
+      "email": "gnormavell2@cornell.edu",
+      "followers": 3,
+      "following": 3,
+      "posts": 3
+    },
+    {
+      "id": 4,
+      "first_name": "Emmie",
+      "last_name": "Petkov",
+      "email": "epetkov3@woothemes.com",
+      "followers": 4,
+      "following": 4,
+      "posts": 4
+    }
+  ]
 }
